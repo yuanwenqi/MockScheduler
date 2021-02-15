@@ -1,0 +1,13 @@
+*.pyc
+confg.py
+*.xml
+.idea/
+settings-online.py
+*.tar.gz
+/static/*
+logs/*
+security/*
+migrations/*
+*.xlsx
+*.csv
+*/migrations/*
